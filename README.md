@@ -1,3 +1,3 @@
 ## PS & Algorithm Repository. 
-- ProblemSolving과 Algorithm을 학습하기 위한 저장소. 
-- 코드만 저장하며 세부 설명은 [블로그](https://velog.io/@torch-ray)에서 확인 가능.  
+- Programmers Level 별로 문제 저장
+- 별도 풀이없이 정답코드만 저장, 관련풀이는 [블로그](https://velog.io/@torch-ray) 확인
