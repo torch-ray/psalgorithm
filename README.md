@@ -34,4 +34,4 @@
 - [콜라츠 추측](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1/collatzConjecture.swift)
 - [크레인 인형뽑기 게임](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/crane.playground/Contents.swift)
 - [키패드 누르기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/keyPad.swift)
-
+- [평균 구하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/avarage.swift)
