@@ -35,4 +35,4 @@
 - [크레인 인형뽑기 게임](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/crane.playground/Contents.swift)
 - [키패드 누르기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0/keyPad.swift)
 - [평균 구하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/avarage.swift)
-- [하샤드 수](https://github.com/torch-ray/psalgorithm/tree/programmers/programmers/Lv.1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)
+- [하샤드 수](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98/hashadNumber.swift)
