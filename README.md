@@ -6,6 +6,7 @@
 - [2016년](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/2016%EB%85%84/2016.swift)
 - [3진법 뒤집기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0/ternary.swift)
 - [K번째 수](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/K%EB%B2%88%EC%A7%B8%20%EC%88%98/kthNumber.playground/Contents.swift)
+[x만큼 간격이 있는 n개의 숫자](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90/nNumber.swift)
 - [가운데 글자 가져오기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/centerString.swift)
 - [나누어 떨어지는 숫자배열](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4/divisor.swift)
 - [내적](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EB%82%B4%EC%A0%81/dotProduct.swift)
