@@ -24,6 +24,7 @@
 - [수박수박수박수박수박수?](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F/watermelon.swift)
 - [시저암호](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/caesar.swift)
 - [신규 아이디 추천](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/newID.playground/Contents.swift)
+- [실패율](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%8B%A4%ED%8C%A8%EC%9C%A8/failRate.swift)
 - [약수의 합](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9/divisor.swift)
 - [이상한 문자 만들기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0/strangeString.swift)
 - [자릿수 더하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0/sumDigit.swift)
