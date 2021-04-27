@@ -45,4 +45,4 @@
 - [행렬의 덧셈](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88/matrixSum.swift)
 
 #### Lv.2
--[기능개발](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/developFunction.swift)
+- [기능개발](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/developFunction.swift)
