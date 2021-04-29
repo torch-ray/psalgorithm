@@ -4,4 +4,4 @@
 
 ## Algorithm List
 
-- [다익스트라](https://github.com/torch-ray/psalgorithm/tree/programmers)
+- [다익스트라](https://github.com/torch-ray/psalgorithm/tree/algorithm/algorithm)
