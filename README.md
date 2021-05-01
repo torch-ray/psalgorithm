@@ -46,4 +46,5 @@
 
 #### Lv.2
 - [기능개발](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/developFunction.swift)
+- [다리를 지나는 트럭](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD/truckOnBridge.swift)
 - [프린터](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%94%84%EB%A6%B0%ED%84%B0/printer.swift)
