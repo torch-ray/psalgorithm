@@ -61,36 +61,50 @@
 
 ### 풀이코드
 - 최소힙을 사용해야 dijkstra의 시간복잡도가 O(nlogn)
+  - 단, 이 경우에도 다수의 노드가 존재할 때 각 노드 들이 서로 다른 노드와 적은 수로 연결되어 있을 경우에 한해서 O(nlogn)
+- Swift의 경우 간단하게 힙구조를 제공하는 라이브러리가 없기 때문에 선형탐색을 통하여 풀이 진행
+- 반드시 힙 구조가 필요한 경우엔, 미리 구현해둔 heap구조를 가져와 사용(제약사항 등의 이유로 불가능할 경우는 python활용 추천)
 - 선형탐색을 사용하는 경우 O(n2)
 
-```python
-import heapq
-
-def solution(N, road, K):
-    maxNum = 1e9
-    graph = [ [] for _ in range(N+1)]
-
-    for node in road:
-        a, b, cost = node[0], node[1], node[2]
-        graph[a].append((b, cost))
-        graph[b].append((a, cost))
-
-    distance = [maxNum] * (N+1)
+```swift
+func solution(_ N:Int, _ road:[[Int]], _ k:Int) -> Int {
+    var graph = [[(Int, Int)]](repeating: [(Int, Int)](repeating: (0, 0), count: N+1), count: N+1)
+    let maxNum = 9999999
+    for node in road {
+        let (a, b, cost) = (node[0], node[1], node[2])
+        if graph[a].first! == (0, 0) {
+            graph[a] = [(b, cost)]
+        } else {
+            graph[a].append((b, cost))
+        }
+        if graph[b].first! == (0, 0) {
+            graph[b] = [(a, cost)]
+        } else {
+            graph[b].append((a, cost))
+        }
+    }
+    
+    var distance = [Int](repeating: maxNum, count: N+1)
     distance[1] = 0
-    q = []
-    heapq.heappush(q, (0, 1))
-
-    while q:
-        nCost, now = heapq.heappop(q)
-
-        if distance[now] < nCost:
+    var queue = [(0, 1)]
+    
+    
+    while !queue.isEmpty {
+        queue.sort(by: >)
+        let (dist, now) = queue.removeLast()
+        
+        if distance[now] < dist {
             continue
-
-        for node in graph[now]:
-            updateCost = nCost + node[1]
-            if updateCost < distance[node[0]]:
-                distance[node[0]] = updateCost
-                heapq.heappush(q, (updateCost, node[0]))
-
-    return len(list(filter(lambda x : x<=K, distance)))
+        }
+        
+        for node in graph[now] {
+            let updateCost = dist + node.1
+            if updateCost < distance[node.0] {
+                distance[node.0] = updateCost
+                queue.append((updateCost, node.0))
+            }
+        }
+    }
+    return distance.filter{$0<=k}.count
+}
 ```
