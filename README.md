@@ -50,6 +50,7 @@
 - [뉴스 클러스터링](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81/jacquard.swift)
 - [다리를 지나는 트럭](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD/truckOnBridge.swift)
 - [멀쩡한 사각형](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95/fineRect.swift)
+- [메뉴 리뉴얼](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/menuRenewal.swift)
 - [문자열 압축](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/zipString.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
 - [짝지어 제거하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/removePairs.swift)
