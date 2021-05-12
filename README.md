@@ -53,6 +53,7 @@
 - [메뉴 리뉴얼](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/menuRenewal.swift)
 - [문자열 압축](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/zipString.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
+- [조이스틱](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/joyStick.swift)
 - [짝지어 제거하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/removePairs.swift)
 - [타겟 넘버](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/targetNumber.swift)
 - [튜플](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%8A%9C%ED%94%8C/tuple.swift)
