@@ -54,6 +54,7 @@
 - [메뉴 리뉴얼](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/menuRenewal.swift)
 - [문자열 압축](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/zipString.swift)
 - [소수 찾기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/findPrimeNumber.swift)
+- [수식 최대화](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/maximizeExpression.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
 - [조이스틱](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/joyStick.swift)
 - [짝지어 제거하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/removePairs.swift)
