@@ -53,6 +53,7 @@
 - [멀쩡한 사각형](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95/fineRect.swift)
 - [메뉴 리뉴얼](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC/menuRenewal.swift)
 - [문자열 압축](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/zipString.swift)
+- [배달](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EB%B0%B0%EB%8B%AC/delivery.swift)
 - [소수 찾기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/findPrimeNumber.swift)
 - [수식 최대화](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/maximizeExpression.swift)
 - [순위 검색](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89/rankSearch.swift)
