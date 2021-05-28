@@ -45,6 +45,7 @@
 - [행렬의 덧셈](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88/matrixSum.swift)
 
 #### Lv.2
+- [2개 이하로 다른 비트](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8/different2Bit.swift)
 - [H-Index](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/H-Index/H-Index.swift)
 - [가장 큰 수 ](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/biggestNum.swift)
 - [괄호 회전하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/validParenthesis.swift)
