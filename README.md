@@ -69,7 +69,7 @@
 - [큰 수 만들기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/greedyNumber.swift)
 - [타겟 넘버](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/targetNumber.swift)
 - [튜플](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%8A%9C%ED%94%8C/tuple.swift)
--[프렌즈 4블록](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%94%84%EB%A0%8C%EC%A6%88%204%EB%B8%94%EB%A1%9D/friends4Blocks.swift)
+- [프렌즈 4블록](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%94%84%EB%A0%8C%EC%A6%88%204%EB%B8%94%EB%A1%9D/friends4Blocks.swift)
 - [프린터](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%94%84%EB%A6%B0%ED%84%B0/printer.swift)
 - [행렬 테두리 회전하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/rotateMatrix.swift)
 - [후보키](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%9B%84%EB%B3%B4%ED%82%A4/candidateKey.swift)
