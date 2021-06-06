@@ -64,6 +64,7 @@
 - [영어 끝말잇기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/endToEnd.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
 - [위장](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%9C%84%EC%9E%A5/camouflage.swift)
+- [이진 변환 반복하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/binaryLoop.swift)
 - [조이스틱](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1/joyStick.swift)
 - [짝지어 제거하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/removePairs.swift)
 - [카펫](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%B9%B4%ED%8E%AB/carpet.swift)
