@@ -61,6 +61,7 @@
 - [소수 찾기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0/findPrimeNumber.swift)
 - [수식 최대화](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94/maximizeExpression.swift)
 - [순위 검색](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89/rankSearch.swift)
+- [스킬트리](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/skillTree.swift)
 - [영어 끝말잇기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/endToEnd.swift)
 - [예상 대진표](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C/expectedRound.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
