@@ -72,6 +72,7 @@
 - [짝지어 제거하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/removePairs.swift)
 - [카펫](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%B9%B4%ED%8E%AB/carpet.swift)
 - [캐시](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%BA%90%EC%8B%9C/cache.swift)
+- [쿼드압축 후 개수 세기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0/quadTree.swift)
 - [큰 수 만들기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0/greedyNumber.swift)
 - [타겟 넘버](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/targetNumber.swift)
 - [튜플](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%8A%9C%ED%94%8C/tuple.swift)
