@@ -1,11 +1,2 @@
-## PS & Algorithm Repository. 
-- ProblemSolving과 Algorithm을 학습하기 위한 저장소. 
-- 코드만 저장하며 세부 설명은 [블로그](https://velog.io/@torch-ray)에서 확인 가능.  
-- 모든 코드는 스위프트(Swift)로 작성. 
-
-## Problem Solving List
-
-- [Programmers](https://github.com/torch-ray/psalgorithm/tree/programmers)
-
-## Algorithm
-- [Algorithm](https://github.com/torch-ray/psalgorithm/tree/algorithm)
+## 2000+
+- [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
