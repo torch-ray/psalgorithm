@@ -47,6 +47,7 @@
 #### Lv.2
 - [2개 이하로 다른 비트](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8/different2Bit.swift)
 - [H-Index](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/H-Index/H-Index.swift)
+- [N진수 게임](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84/baseNGame.swift)
 - [가장 큰 수 ](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/biggestNum.swift)
 - [가장 큰 정사각형 찾기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0/biggestSquare.swift)
 - [괄호 회전하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/validParenthesis.swift)
@@ -69,6 +70,7 @@
 - [영어 끝말잇기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/endToEnd.swift)
 - [예상 대진표](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C/expectedRound.swift)
 - [오픈채팅방](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/openKakaoTalk.swift)
+- [올바른 괄호](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8/validParentheses.swift)
 - [위장](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%9C%84%EC%9E%A5/camouflage.swift)
 - [이진 변환 반복하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/binaryLoop.swift)
 - [점프와 순간이동](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99/jumpAndTeleportation.swift)
