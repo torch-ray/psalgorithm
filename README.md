@@ -100,4 +100,5 @@
 - [가장 긴 팰린드롬](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/longestPalindrome.swift)
 - [가장 먼 노드](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C/furthestNode.swift)
 - [베스트 앨범](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94/bestAlbum.swift)
+- [입국심사](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/immigration.swift)
 - [자물쇠와 열쇠](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0/lockKey.swift)
