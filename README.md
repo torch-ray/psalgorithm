@@ -97,6 +97,7 @@
 - [후보키](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%ED%9B%84%EB%B3%B4%ED%82%A4/candidateKey.swift)
 
 #### Lv.3
+- [N으로 표현](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84/expressionN.swift)
 - [가장 긴 팰린드롬](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/longestPalindrome.swift)
 - [가장 먼 노드](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C/furthestNode.swift)
 - [베스트 앨범](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94/bestAlbum.swift)
