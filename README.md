@@ -52,6 +52,7 @@
 - [N진수 게임](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/N%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84/baseNGame.swift)
 - [가장 큰 수 ](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98/biggestNum.swift)
 - [가장 큰 정사각형 찾기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0/biggestSquare.swift)
+- [거리두기 확인하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/keepDistance.swift)
 - [괄호 회전하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/validParenthesis.swift)
 - [괄호변환](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98/changeParenthesis.swift)
 - [기능개발](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/developFunction.swift)
