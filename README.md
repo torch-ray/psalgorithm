@@ -1,6 +1,7 @@
 ## 1000+
 - [No.1012 유기농 배추](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/organicCabbage.swift)
 - [No.1085 직사각형에서 탈출](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1085%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/escapingRect.swift)
+- [No.1912 연속합]()
 - [No.1920 수 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/findNumber.swift)
 
 ## 2000+
