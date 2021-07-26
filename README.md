@@ -6,6 +6,7 @@
 
 ## 2000+
 - [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2003%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
+- [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 
 ## 7000+
