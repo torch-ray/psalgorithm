@@ -6,12 +6,12 @@
 
 ## 2000+
 - [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2003%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
-- [No.2193 이친수]()
+- [No.2193 이친수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2193%20%EC%9D%B4%EC%B9%9C%EC%88%98/prinaryNumber.swift)
 - [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 
 ## 7000+
-- [No.7568 덩치]()
+- [No.7568 덩치](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7568%20%EB%8D%A9%EC%B9%98/bulk.swift)
 - [No.7576 토마토](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/tomato.swift)
 
 ## 10000+
