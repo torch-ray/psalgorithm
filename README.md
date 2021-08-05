@@ -20,4 +20,4 @@
 - [CountDiv](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/CountDiv/CountDiv.swift)
 - [GenomicRangeQuery](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/GenomicRangeQuery/GenomicRangeQuery.swift)
 - [MinAvgTwoSlice](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/MinAvgTwoSlice/MinAvgTwoSlice.swift)
-- [PassingCars]()
+- [PassingCars](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/PassingCars/PassingCars.swift)
