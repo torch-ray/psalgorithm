@@ -23,7 +23,7 @@
 - [PassingCars](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/PassingCars/PassingCars.swift)
 
 ## Lesson 6 Sorting
-- [Distinct]()
-- [MaxProductOfThree]()
-- [NumberOfDiscIntersections]()
-- [Triangle]()
+- [Distinct](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/Distinct/Distinct.swift)
+- [MaxProductOfThree](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/MaxProductOfThree/MaxProductOfThree.swift)
+- [NumberOfDiscIntersections](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.swift)
+- [Triangle](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/Triangle/Triangle.swift)
