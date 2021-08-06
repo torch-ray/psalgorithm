@@ -21,3 +21,9 @@
 - [GenomicRangeQuery](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/GenomicRangeQuery/GenomicRangeQuery.swift)
 - [MinAvgTwoSlice](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/MinAvgTwoSlice/MinAvgTwoSlice.swift)
 - [PassingCars](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.5%20Prefix%20Sums/PassingCars/PassingCars.swift)
+
+## Lesson 6 Sorting
+- [Distinct]()
+- [MaxProductOfThree]()
+- [NumberOfDiscIntersections]()
+- [Triangle]()
