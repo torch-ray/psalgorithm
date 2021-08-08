@@ -29,52 +29,52 @@
 - [Triangle](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/Triangle/Triangle.swift)
 
 ## Lesson 7 Stacks and Queues
-- [Brackets]()
-- [Fish]()
-- [Nesting]()
-- [StoneWall]()
+- [Brackets](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/Brackets/Brackets.swift)
+- [Fish](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/Fish/Fish.swift)
+- Nesting
+- StoneWall
 
 ## Lesson 8 Leader
-- [Dominator]()
-- [EquiLeader]()
+- Dominator
+- EquiLeader
 
 ## Lesson 9 Maximum slice problem
-- [MaxDoubleSliceSum]()
-- [MaxProfit]()
-- [MaxSliceSum]()
+- MaxDoubleSliceSum
+- MaxProfit
+- MaxSliceSum
 
 ## Lesson 10 Prime and composite numbers
-- [CountFactors]()
-- [Flags]()
-- [MinPerimeterRectangle]()
-- [Peaks]()
+- CountFactors
+- Flags
+- MinPerimeterRectangle
+- Peaks
 
 ## Lesson 11 Sieve of Eratosthenes
-- [CountNonDivisible]()
-- [CountSemiprimes]()
+- CountNonDivisible
+- CountSemiprimes
 
 ## Lesson 12 Euclidean algorithm
-- [ChocolatesByNumbers]()
-- [CommonPrimeDivisors]()
+- ChocolatesByNumbers
+- CommonPrimeDivisors
 
 ## Lesson 13 Fibonacci numbers
-- [FibFrog]()
-- [Ladder]()
+- FibFrog
+- Ladder
 
 ## Lesson 14 Binary search algorithm
-- [MinMaxDivision]()
-- [NailingPlanks]()
+- MinMaxDivision
+- NailingPlanks
 
 ## Lesson 15 Caterpillar method
-- [AbsDistinct]()
-- [CountDistinctSlices]()
-- [CountTriangles]()
-- [MinAbsSumOfTwo]()
+- [AbsDistinct](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.15%20Caterpillar%20method/AbsDistinct/AbsDistinct.swift)
+- CountDistinctSlices
+- CountTriangles
+- [MinAbsSumOfTwo](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.15%20Caterpillar%20method/MinAbsSumOfTwo/MinAbsSumOfTwo.swift)
 
 ## Lesson 16 Greedy algorithms
-- [MaxNonoverlappingSegments]()
-- [TieRopes]()
+- [MaxNonoverlappingSegments](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.16%20Greedy%20algorithms/MaxNonoverlappingSegments/MaxNonoverlappingSegments.swift)
+- TieRopes
 
 ## Lesson 17 Dynamic programming
-- [MinAbsSum]()
-- [NumberSolitaire]()
+- MinAbsSum
+- [NumberSolitaire](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.17%20Dynamic%20programming/NumberSolitaire/NumberSolitaire.swift)
