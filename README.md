@@ -27,3 +27,54 @@
 - [MaxProductOfThree](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/MaxProductOfThree/MaxProductOfThree.swift)
 - [NumberOfDiscIntersections](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/NumberOfDiscIntersections/NumberOfDiscIntersections.swift)
 - [Triangle](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.6%20Sorting/Triangle/Triangle.swift)
+
+## Lesson 7 Stacks and Queues
+- [Brackets]()
+- [Fish]()
+- [Nesting]()
+- [StoneWall]()
+
+## Lesson 8 Leader
+- [Dominator]()
+- [EquiLeader]()
+
+## Lesson 9 Maximum slice problem
+- [MaxDoubleSliceSum]()
+- [MaxProfit]()
+- [MaxSliceSum]()
+
+## Lesson 10 Prime and composite numbers
+- [CountFactors]()
+- [Flags]()
+- [MinPerimeterRectangle]()
+- [Peaks]()
+
+## Lesson 11 Sieve of Eratosthenes
+- [CountNonDivisible]()
+- [CountSemiprimes]()
+
+## Lesson 12 Euclidean algorithm
+- [ChocolatesByNumbers]()
+- [CommonPrimeDivisors]()
+
+## Lesson 13 Fibonacci numbers
+- [FibFrog]()
+- [Ladder]()
+
+## Lesson 14 Binary search algorithm
+- [MinMaxDivision]()
+- [NailingPlanks]()
+
+## Lesson 15 Caterpillar method
+- [AbsDistinct]()
+- [CountDistinctSlices]()
+- [CountTriangles]()
+- [MinAbsSumOfTwo]()
+
+## Lesson 16 Greedy algorithms
+- [MaxNonoverlappingSegments]()
+- [TieRopes]()
+
+## Lesson 17 Dynamic programming
+- [MinAbsSum]()
+- [NumberSolitaire]()
