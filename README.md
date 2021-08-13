@@ -4,7 +4,7 @@
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
 - [No.1912 연속합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1912%20%EC%97%B0%EC%86%8D%ED%95%A9/sumNumbers.swift)
 - [No.1920 수 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/findNumber.swift)
-- [No.1932 회의실 배정]()
+- [No.1932 회의실 배정](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/meetingRoom.swift)
 
 ## 2000+
 - [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2003%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
