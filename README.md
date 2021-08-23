@@ -133,5 +133,5 @@
 
 #### Weekly
 
-- [Weekly 1]()
-- [Weekly 2]()
+- [Weekly 1](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly1/Weekly1.swift)
+- [Weekly 2](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly2/Weekly2.swift)
