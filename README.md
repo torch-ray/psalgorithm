@@ -20,6 +20,9 @@
 - [No.7568 덩치](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7568%20%EB%8D%A9%EC%B9%98/bulk.swift)
 - [No.7576 토마토](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/tomato.swift)
 
+## 9000+
+- [No.9461 파도반 수열]()
+
 ## 10000+
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
