@@ -3,6 +3,7 @@
 - [No.1018 체스판 다시 칠하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1018%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0/repaintChess.swift)
 - [No.1085 직사각형에서 탈출](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1085%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/escapingRect.swift)
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
+- [No.1874 스택 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1874%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4/stackSequence.swift)
 - [No.1912 연속합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1912%20%EC%97%B0%EC%86%8D%ED%95%A9/sumNumbers.swift)
 - [No.1920 수 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/findNumber.swift)
 - [No.1932 회의실 배정](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/meetingRoom.swift)
