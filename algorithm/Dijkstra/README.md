@@ -22,7 +22,6 @@
 - 출발점을 설정 
 - 출발점에서 부터 모든 도착점까지의 최단거리를 설정
 - 방문하지 않은 노드를 모두 탐색
-  - 간선의 경로 값이 가장 적은 값부터 탐색
 - 해당 노드에서부터 도달 가능한 노드의 모든 경로값 업데이트
 <img width="275" alt="스크린샷 2021-04-29 오전 9 03 42" src="https://user-images.githubusercontent.com/74946802/116486961-cd3aae80-a8c9-11eb-990a-bd9dc20193a7.png">
 
@@ -35,7 +34,7 @@
 - 즉, [0, 1, 2, 3, INF]가 출발점으로부터 모든 노드까지의 최단경로 값
 <img width="253" alt="스크린샷 2021-04-29 오전 9 06 49" src="https://user-images.githubusercontent.com/74946802/116487143-3f12f800-a8ca-11eb-991f-abbadc630b60.png">
 
-- 위에서 언급한 대로 가장 작은 최단경로 값(1)을 가진 정점 2부터 탐색
+- 정점 2를 탐색하는 예시
   - 1에서 2로의 이동비용 => 1
   - 2에서 4로의 이동비용 => 1
   - 1에서 2를 거쳐 4로 이동하는 비용 => 2
@@ -61,47 +60,41 @@
 
 ### 풀이코드
 - 최소힙을 사용해야 dijkstra의 시간복잡도가 O(nlogn)
-  - 단, 이 경우에도 다수의 노드가 존재할 때 각 노드 들이 서로 다른 노드와 적은 수로 연결되어 있을 경우에 한해서 O(nlogn)
+  - 단, 이 경우에도 다수의 노드가 존재할 때 각 노드들이 서로 다른 노드와 적은 수로 연결되어 있을 경우에 한해서 O(nlogn)
 - Swift의 경우 간단하게 힙구조를 제공하는 라이브러리가 없기 때문에 선형탐색을 통하여 풀이 진행
 - 반드시 힙 구조가 필요한 경우엔, 미리 구현해둔 heap구조를 가져와 사용(제약사항 등의 이유로 불가능할 경우는 python활용 추천)
+  - 단, 아래 코드의 경우 cursor를 활용하여 removeFirst()와 같은 O(n)코드를 O(1)으로 대체
 - 선형탐색을 사용하는 경우 O(n2)
 
 ```swift
 func solution(_ N:Int, _ road:[[Int]], _ k:Int) -> Int {
-    var graph = [[(Int, Int)]](repeating: [(Int, Int)](repeating: (0, 0), count: N+1), count: N+1)
-    let maxNum = 9999999
-    for node in road {
-        let (a, b, cost) = (node[0], node[1], node[2])
-        if graph[a].first! == (0, 0) {
-            graph[a] = [(b, cost)]
-        } else {
-            graph[a].append((b, cost))
-        }
-        if graph[b].first! == (0, 0) {
-            graph[b] = [(a, cost)]
-        } else {
-            graph[b].append((a, cost))
-        }
+    var graph = [[(Int, Int)]](repeating: [], count: N+1)
+    
+    for info in road {
+        graph[info[0]].append((info[1], info[2]))
+        graph[info[1]].append((info[0], info[2]))
     }
     
-    var distance = [Int](repeating: maxNum, count: N+1)
+    var distance = [Int](repeating: Int.max, count: N+1)
     distance[1] = 0
-    var queue = [(0, 1)]
     
+    var queue = [(1, 0)], cursor = 0
     
-    while !queue.isEmpty {
-        queue.sort(by: >)
-        let (dist, now) = queue.removeLast()
+    while cursor < queue.count {
+        let now = queue[cursor]
+        cursor+=1
         
-        if distance[now] < dist {
+        let node = now.0, dist = now.1
+        
+        if distance[node] < dist {
             continue
         }
         
-        for node in graph[now] {
-            let updateCost = dist + node.1
-            if updateCost < distance[node.0] {
-                distance[node.0] = updateCost
-                queue.append((updateCost, node.0))
+        for nxt in graph[node] {
+            let newCost = dist + nxt.1
+            if distance[nxt.0] > newCost {
+                distance[nxt.0] = newCost
+                queue.append((nxt.0, newCost))
             }
         }
     }
