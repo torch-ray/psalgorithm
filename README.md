@@ -135,3 +135,7 @@
 
 - [Weekly 1](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly1/Weekly1.swift)
 - [Weekly 2](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly2/Weekly2.swift)
+- [Weekly 3]()
+- [Weekly 4](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly4/Weekly4.swift)
+- [Weekly 5](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly5/Weekly5.swift)
+- [Weekly 6](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Weekly/Weekly6/Weekly6.swift)
