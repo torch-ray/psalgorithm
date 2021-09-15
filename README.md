@@ -121,6 +121,8 @@
 - [섬 연결하기](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/connectIsland.swift)
 - [셔틀버스](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4/shuttleBus.swift)
 - [순위](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%88%9C%EC%9C%84/rank.swift)
+- [숫자 게임](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84/numberGame.swift)
+- [스티커 모으기(2)](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%AA%A8%EC%9C%BC%EA%B8%B0(2)/sticker(2).swift)
 - [여행경로](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/tavelRoute.swift)
 - [외벽 점검](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80/checkWall.swift)
 - [이중우선순위큐](https://github.com/torch-ray/psalgorithm/blob/programmers/programmers/Lv.3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/priorityQueue.swift)
