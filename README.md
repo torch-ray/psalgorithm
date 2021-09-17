@@ -31,17 +31,17 @@
 ## Lesson 7 Stacks and Queues
 - [Brackets](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/Brackets/Brackets.swift)
 - [Fish](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/Fish/Fish.swift)
-- Nesting
-- StoneWall
+- [Nesting](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/Nesting/Nesting.swift)
+- [StoneWall](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.7%20Stacks%20and%20Queues/StoneWall/StoneWall.swift)
 
 ## Lesson 8 Leader
-- Dominator
-- EquiLeader
+- [Dominator](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.8%20Leader/Dominator/Dominator.swift)
+- [EquiLeader](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.8%20Leader/EquiLeader/EquiLeader.swift)
 
 ## Lesson 9 Maximum slice problem
-- MaxDoubleSliceSum
-- MaxProfit
-- MaxSliceSum
+- [MaxDoubleSliceSum](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.9%20Maximum%20Slice%20Problem/MaxDoubleSliceSum/MaxDoubleSliceSum.swift)
+- [MaxProfit](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.9%20Maximum%20Slice%20Problem/MaxProfit/MaxProfit.swift)
+- [MaxSliceSum](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.9%20Maximum%20Slice%20Problem/MaxSliceSum/MaxSliceSum.swift)
 
 ## Lesson 10 Prime and composite numbers
 - CountFactors
