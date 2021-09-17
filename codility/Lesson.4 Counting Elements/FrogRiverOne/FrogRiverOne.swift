@@ -1,18 +1,12 @@
-import Foundation
-
 public func solution(_ X : Int, _ A : inout [Int]) -> Int {
-    
-    var dict:[Int:Bool] = [:]
-    
-    for num in 1...X {
-        dict[num] = true
-    }
+    var positions: Set<Int> = []
 
-    for (idx, num) in A.enumerated() {
-        dict[num] = nil
-        if dict.count == 0 {
-            return idx
+    for (sec, position) in A.enumerated() where !positions.contains(position) {
+        positions.insert(position)
+        if positions.count == X {
+            return sec
         }
     }
+
     return -1
 }

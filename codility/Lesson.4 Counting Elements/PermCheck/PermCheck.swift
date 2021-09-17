@@ -1,16 +1,18 @@
-import Foundation
-
 public func solution(_ A : inout [Int]) -> Int {
-    var dict:[Int:Bool] = [:]
-
-    for num in A {
-        dict[num] = true
-    }
-
-    for num in 1...A.count {
-        if dict[num] == nil {
+    var permutation: Set<Int> = []
+    
+    for number in A {
+        
+        if number > A.count {
             return 0
         }
+        
+        if permutation.contains(number) {
+            return 0
+        }
+        
+        permutation.insert(number)
     }
-    return 1
+    
+    return permutation.count == A.count ? 1:0
 }

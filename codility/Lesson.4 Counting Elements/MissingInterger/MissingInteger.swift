@@ -1,23 +1,16 @@
-import Foundation
-
 public func solution(_ A : inout [Int]) -> Int {
-    var dict:[Int:Bool] = [:]
-    var maxNum = 0
+    var res: Set<Int> = [], maxNum = 0
 
-    for num in A {
-        dict[num] = true
-        maxNum = max(maxNum, num)
+    for number in A  where number > 0 {
+        res.insert(number)
+        maxNum = max(maxNum, number)
     }
 
     guard maxNum > 0 else { return 1 }
 
-    for num in 1...maxNum {
-        if num == maxNum {
-            return maxNum+1
-        }
-        if dict[num] == nil {
-            return num
-        }
+    for number in 1...maxNum where !res.contains(number) {
+        return number
     }
-    return -1
+
+    return maxNum+1
 }

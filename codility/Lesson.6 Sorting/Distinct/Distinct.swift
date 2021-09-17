@@ -1,11 +1,9 @@
-import Foundation
-
 public func solution(_ A : inout [Int]) -> Int {
-    var dict:[Int: Int] = [:]
-    
-    for num in A {
-        dict[num] = (dict[num] ?? 0)+1
+    var distinct: Set<Int> = []
+
+    for number in A where !distinct.contains(number) {
+        distinct.insert(number)
     }
 
-    return dict.count
+    return distinct.count
 }

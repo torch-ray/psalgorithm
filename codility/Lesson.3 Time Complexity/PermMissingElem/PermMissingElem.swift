@@ -1,19 +1,12 @@
-import Foundation
-
 public func solution(_ A : inout [Int]) -> Int {
-    guard !A.isEmpty else { return 1 }
-    let N = A.count+1
-    var dict:[Int:Bool] = [:]
+    var res = 0
 
-    for num in A {
-        dict[num] = true
+    for (num1, num2) in A.enumerated() {
+        res ^= num1+1
+        res ^= num2
     }
 
-    for num in 1...N {
-        if dict[num] == nil {
-            return num
-        }
-    }
+    res ^= A.count+1
 
-    return -1
+    return res
 }
