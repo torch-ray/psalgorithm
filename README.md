@@ -44,9 +44,9 @@
 - [MaxSliceSum](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.9%20Maximum%20Slice%20Problem/MaxSliceSum/MaxSliceSum.swift)
 
 ## Lesson 10 Prime and composite numbers
-- CountFactors
+- [CountFactors](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.10%20Prime%20and%20composite%20numbers/CountFactors/CountFactors.swift)
 - Flags
-- MinPerimeterRectangle
+- [MinPerimeterRectangle](https://github.com/torch-ray/psalgorithm/blob/codility/codility/Lesson.10%20Prime%20and%20composite%20numbers/MinPerimeterRectangle/MinPerimeterRectangle.swift)
 - Peaks
 
 ## Lesson 11 Sieve of Eratosthenes
