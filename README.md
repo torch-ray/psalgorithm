@@ -15,6 +15,7 @@
 - [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
 - [No.2581 소수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2581%20%EC%86%8C%EC%88%98/primeNumber.swift)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
+- [No.2805 나무 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2805%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/CuttingTree.swift)
 
 ## 5000+
 - [No.5543 상근날드](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5543%20%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/sangeunNald.swift)
