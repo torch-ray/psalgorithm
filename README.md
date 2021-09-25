@@ -40,6 +40,7 @@
 
 ## 14000+
 - [No.14501 퇴사](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14501%20%ED%87%B4%EC%82%AC/leave.swift)
+- [No.14502 연구실](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14502%20%EC%97%B0%EA%B5%AC%EC%8B%A4/laboratory.swift)
 
 ## 15000+
 - [No.15649 N과M(1)](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/15000%2B/15649%20N%EA%B3%BCM(1)/N%26M.swift)
