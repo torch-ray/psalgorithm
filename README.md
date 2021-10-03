@@ -8,6 +8,7 @@
 - [No.1912 연속합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1912%20%EC%97%B0%EC%86%8D%ED%95%A9/sumNumbers.swift)
 - [No.1920 수 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/findNumber.swift)
 - [No.1932 회의실 배정](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/meetingRoom.swift)
+- [No.1966 프린터큐](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90/printerQ.swift)
 
 ## 2000+
 - [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2003%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
