@@ -2,6 +2,7 @@
 - [No.1011 Fly me to the Alpha Centauri](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1011%20Fly%20me%20to%20the%20Alpha%20Centauri/flyMeToTheAlphaCentauri.swift)
 - [No.1012 유기농 배추](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/organicCabbage.swift)
 - [No.1018 체스판 다시 칠하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1018%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0/repaintChess.swift)
+- [No.1026 보물](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1026%20%EB%B3%B4%EB%AC%BC/treasure.swift)
 - [No.1085 직사각형에서 탈출](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1085%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/escapingRect.swift)
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
 - [No.1874 스택 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1874%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4/stackSequence.swift)
