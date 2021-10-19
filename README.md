@@ -45,6 +45,7 @@
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
 
 ## 11000+
+- [No.11050 이항계수1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11050%20%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/binomialCoefficient.swift)
 - [No.11053 가장 긴 증가하는 부분 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11053%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4/LIS.swift)
 - [No.11650 좌표 정렬하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11650%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/sortingCoordnate.swift)
 - [No.11724 연결 요소의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11724%20%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98/connectedComponent.swift)
