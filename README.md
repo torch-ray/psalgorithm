@@ -17,6 +17,7 @@
 - [No.2164 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2164%20%EC%B9%B4%EB%93%9C2/card2.swift)
 - [No.2193 이친수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2193%20%EC%9D%B4%EC%B9%9C%EC%88%98/prinaryNumber.swift)
 - [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
+- [No.2444 별 찍기-7](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2444%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-7/printStar7.swift)
 - [No.2445 별 찍기-8](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2445%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-8/printStar8.swift)
 - [No.2447 별 찍기-10](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-10/printStar10.swift)
 - [No.2523 별 찍기-13](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2523%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-13/printStar13.swift)
