@@ -1,10 +1,8 @@
 class Tree {
-    var node: String
     var left: String
     var right: String
     
-    init(_ node: String, _ left: String, _ right: String) {
-        self.node = node
+    init(_ left: String, _ right: String) {
         self.left = left
         self.right = right
     }
@@ -15,7 +13,7 @@ var S1 = "", S2 = "", S3 = ""
 
 for _ in 0..<Int(readLine()!)! {
     let N = readLine()!.split{$0==" "}.map{String($0)}
-    tree[N[0]] = Tree(N[0], N[1], N[2])
+    tree[N[0]] = Tree(N[1], N[2])
 }
 
 func dfs(_ node: String) {
