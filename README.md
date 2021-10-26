@@ -42,7 +42,7 @@
 - [No.7576 토마토](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/tomato.swift)
 
 ## 6000+
-- [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift))
+- [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift)
 
 ## 9000+
 - [No.9461 파도반 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4/waveSequence.swift)
