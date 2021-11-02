@@ -51,6 +51,7 @@
 
 ## 9000+
 - [No.9461 파도반 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4/waveSequence.swift)
+- [No.9465 스티커](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9465%20%EC%8A%A4%ED%8B%B0%EC%BB%A4/sticker.swift)
 - [No.9663 N-Queen](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9663%20N-Queen/N-Queen.swift)
 
 ## 10000+
