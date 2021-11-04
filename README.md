@@ -19,6 +19,7 @@
 
 ## 2000+
 - [No.2003 수들의 합2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2003%20%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A92/sumNumbers2.swift)
+- [No.2108 통계학](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2108%20%ED%86%B5%EA%B3%84%ED%95%99/statistics.swift)
 - [No.2163 초콜릿 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2163%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0/sliceChocolate.swift)
 - [No.2164 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2164%20%EC%B9%B4%EB%93%9C2/card2.swift)
 - [No.2193 이친수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2193%20%EC%9D%B4%EC%B9%9C%EC%88%98/prinaryNumber.swift)
