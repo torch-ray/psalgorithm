@@ -68,6 +68,7 @@
 - [No.11650 좌표 정렬하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11650%20%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/sortingCoordnate.swift)
 - [No.11724 연결 요소의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11724%20%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98/connectedComponent.swift)
 - [No.11727 2xN 타일링 2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11727%202xN%20%ED%83%80%EC%9D%BC%EB%A7%81%202/2xN.swift)
+- [No.11866 요세푸스 문제 0](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11866%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%200/Josephus0.swift)
 
 ## 14000+
 - [No.14501 퇴사](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14501%20%ED%87%B4%EC%82%AC/leave.swift)
