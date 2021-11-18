@@ -64,6 +64,7 @@
 - [No.10757 큰 수 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10757%20%ED%81%B0%20%EC%88%98%20A%2BB/BigNumberA%2BB.swift)
 - [No.10799 쇠 막대기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10799%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/ironStick.swift)
 - [No.10808 알파벳 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10808%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98/alphabetCount.swift)
+- [No.10816   숫자 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2/numberCard2.swift)
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
