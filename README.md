@@ -12,6 +12,7 @@
 - [No.1541 잃어버린 괄호](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1541%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8/missingParenthesis.swift)
 - [No.1654 랜선 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1654%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/cutLan.swift)
 - [No.1753 최단경로](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1753%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/shortestPath.swift)
+- [No.1759 암호 만들기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1759%20%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/creatingPW.swift)
 - [No.1874 스택 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1874%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4/stackSequence.swift)
 - [No.1904 01타일](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1904%2001%ED%83%80%EC%9D%BC/01Tile.swift)
 - [No.1912 연속합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1912%20%EC%97%B0%EC%86%8D%ED%95%A9/sumNumbers.swift)
