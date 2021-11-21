@@ -1,4 +1,7 @@
 ## 1000+
+- [No.1000 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1000%20A%2BB/A%2BB.py)
+- [No.1001 A-B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1001%20A-B/A-B.py)
+- [No.1008 A/B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1008%20A:B/AdivB.py)
 - [No.1011 Fly me to the Alpha Centauri](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1011%20Fly%20me%20to%20the%20Alpha%20Centauri/flyMeToTheAlphaCentauri.swift)
 - [No.1012 유기농 배추](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94/organicCabbage.swift)
 - [No.1018 체스판 다시 칠하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1018%20%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0/repaintChess.swift)
@@ -29,12 +32,15 @@
 - [No.2193 이친수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2193%20%EC%9D%B4%EC%B9%9C%EC%88%98/prinaryNumber.swift)
 - [No.2293  동전 1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2293%20%EB%8F%99%EC%A0%841/coin1.swift)
 - [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
+- [No.2438 별 찍기-1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2438%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-1/printStar-1.py)
 - [No.2443  별 찍기-6](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2443%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-6/printStar-6.swift)
 - [No.2444 별 찍기-7](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2444%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-7/printStar7.swift)
 - [No.2445 별 찍기-8](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2445%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-8/printStar8.swift)
 - [No.2447 별 찍기-10](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2447%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-10/printStar10.swift)
 - [No.2523 별 찍기-13](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2523%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-13/printStar13.swift)
+- [No.2557 Hello World](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2557%20Hello%20World/helloWorld.py)
 - [No.2581 소수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2581%20%EC%86%8C%EC%88%98/primeNumber.swift)
+- [No.2739 구구단](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2739%20%EA%B5%AC%EA%B5%AC%EB%8B%A8/multiplicationTable.py)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 - [No.2805 나무 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2805%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/CuttingTree.swift)
 
@@ -60,16 +66,20 @@
 - [No.9251 LCS](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9251%20LCS/LCS.swift)
 - [No.9461 파도반 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4/waveSequence.swift)
 - [No.9465 스티커](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9465%20%EC%8A%A4%ED%8B%B0%EC%BB%A4/sticker.swift)
+- [No.9498 시험 성적](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9498%20%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81/testScore.py)
 - [No.9663 N-Queen](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9663%20N-Queen/N-Queen.swift)
 
 ## 10000+
+- [No.10718 We Love Kriii](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10718%20We%20love%20kriii/weLoveKriii.py)
 - [No.10757 큰 수 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10757%20%ED%81%B0%20%EC%88%98%20A%2BB/BigNumberA%2BB.swift)
 - [No.10799 쇠 막대기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10799%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/ironStick.swift)
 - [No.10808 알파벳 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10808%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98/alphabetCount.swift)
 - [No.10816   숫자 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2/numberCard2.swift)
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
+- [No.10869 사칙연산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10869%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/arithmeticOperation.py)
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
+- [No.10998 AxB](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10998%20AxB/AxB.py)
 
 ## 11000+
 - [No.11050 이항계수1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11050%20%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/binomialCoefficient.swift)
