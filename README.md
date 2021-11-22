@@ -41,6 +41,7 @@
 - [No.2557 Hello World](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2557%20Hello%20World/helloWorld.py)
 - [No.2581 소수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2581%20%EC%86%8C%EC%88%98/primeNumber.swift)
 - [No.2739 구구단](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2739%20%EA%B5%AC%EA%B5%AC%EB%8B%A8/multiplicationTable.py)
+- [No.2741 N 찍기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2741%20N%EC%B0%8D%EA%B8%B0/printN.py)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 - [No.2805 나무 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2805%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/CuttingTree.swift)
 
@@ -70,6 +71,7 @@
 - [No.9663 N-Queen](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9663%20N-Queen/N-Queen.swift)
 
 ## 10000+
+- [No.10430 나머지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10430%20%EB%82%98%EB%A8%B8%EC%A7%80/remainder.py)
 - [No.10718 We Love Kriii](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10718%20We%20love%20kriii/weLoveKriii.py)
 - [No.10757 큰 수 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10757%20%ED%81%B0%20%EC%88%98%20A%2BB/BigNumberA%2BB.swift)
 - [No.10799 쇠 막대기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10799%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/ironStick.swift)
