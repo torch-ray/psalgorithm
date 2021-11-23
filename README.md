@@ -71,6 +71,7 @@
 - [No.9663 N-Queen](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9663%20N-Queen/N-Queen.swift)
 
 ## 10000+
+- [No.10172 개](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10172%20%EA%B0%9C/dog.py)
 - [No.10430 나머지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10430%20%EB%82%98%EB%A8%B8%EC%A7%80/remainder.py)
 - [No.10718 We Love Kriii](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10718%20We%20love%20kriii/weLoveKriii.py)
 - [No.10757 큰 수 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10757%20%ED%81%B0%20%EC%88%98%20A%2BB/BigNumberA%2BB.swift)
