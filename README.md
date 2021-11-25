@@ -11,6 +11,7 @@
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
 - [No.1182 부분수열의 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1182%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9/sumSubsequence.swift)
 - [No.1237 정ㅋ벅ㅋ](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1237%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/conquest.swift)
+- [No.1330 두 수 비교하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1330%20%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/compareTwoNums.py)
 - [No.1476 날짜 계산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1476%20%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0/dateCalculation.swift)
 - [No.1541 잃어버린 괄호](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1541%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8/missingParenthesis.swift)
 - [No.1654 랜선 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1654%20%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/cutLan.swift)
@@ -58,12 +59,15 @@
 - [No.5543 상근날드](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5543%20%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/sangeunNald.swift)
 - [No.5585 거스름돈](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5585%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/change.swift)
 
+## 6000+
+- [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift)
+
 ## 7000+
 - [No.7568 덩치](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7568%20%EB%8D%A9%EC%B9%98/bulk.swift)
 - [No.7576 토마토](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/tomato.swift)
 
-## 6000+
-- [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift)
+## 8000+
+- [No.8393 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/8000%2B/8393%20%ED%95%A9/sum.py)
 
 ## 9000+
 - [No.9251 LCS](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9251%20LCS/LCS.swift)
@@ -73,6 +77,7 @@
 - [No.9663 N-Queen](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9663%20N-Queen/N-Queen.swift)
 
 ## 10000+
+- [No.10171 고양이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10171%20%EA%B3%A0%EC%96%91%EC%9D%B4/cat.py)
 - [No.10172 개](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10172%20%EA%B0%9C/dog.py)
 - [No.10430 나머지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10430%20%EB%82%98%EB%A8%B8%EC%A7%80/remainder.py)
 - [No.10718 We Love Kriii](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10718%20We%20love%20kriii/weLoveKriii.py)
