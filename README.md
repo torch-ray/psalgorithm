@@ -90,6 +90,7 @@
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
 - [No.10869 사칙연산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10869%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/arithmeticOperation.py)
 - [No.10871 X보다 작은 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10871%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98/numLessThanX.py)
+- [No.10950 A+B - 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10950%20A%2BB-3/A%2BB-3.py)
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
 - [No.10998 AxB](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10998%20AxB/AxB.py)
 
