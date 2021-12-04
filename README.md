@@ -49,6 +49,7 @@
 - [No.2753 윤년](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2753%20%EC%9C%A4%EB%85%84/leapYear.py)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 - [No.2805 나무 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2805%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/CuttingTree.swift)
+- [No.2884 알람 시계](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2884%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84%20/alarm.py)
 
 ## 3000+
 - [No.3009 네 번째 점](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/3000%2B/3009%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90/fourthPoint.swift)
