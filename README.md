@@ -94,10 +94,12 @@
 - [No.10869 사칙연산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10869%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/arithmeticOperation.py)
 - [No.10871 X보다 작은 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10871%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98/numLessThanX.py)
 - [No.10950 A+B - 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10950%20A%2BB-3/A%2BB-3.py)
+- [No.10952 A+B - 5](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10952%20A%2BB-5/A%2BB%20-5.py)
 - [No.10989 수 정렬하기 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03/sortNumber3.swift)
 - [No.10998 AxB](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10998%20AxB/AxB.py)
 
 ## 11000+
+- [No.11021 A+B - 7](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11021%20A%2BB-7/A%2BB%20-7.py)
 - [No.11050 이항계수1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11050%20%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98/binomialCoefficient.swift)
 - [No.11053 가장 긴 증가하는 부분 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11053%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4/LIS.swift)
 - [No.11057  오르막 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/11000%2B/11057%20%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98/uphillNumber.swift)
