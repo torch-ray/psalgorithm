@@ -116,6 +116,7 @@
 ## 14000+
 - [No.14501 퇴사](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14501%20%ED%87%B4%EC%82%AC/leave.swift)
 - [No.14502 연구실](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14502%20%EC%97%B0%EA%B5%AC%EC%8B%A4/laboratory.swift)
+- [No.14681 사분면 고르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14681%20%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0/quadrant.py)
 - [No.14889 스타트와 링크](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14889%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC/start%26link.swift)
 
 ## 15000+
