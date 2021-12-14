@@ -120,6 +120,7 @@
 - [No.14889 스타트와 링크](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/14000%2B/14889%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC/start%26link.swift)
 
 ## 15000+
+- [No.15552 빠른 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/15000%2B/15552%20%EB%B9%A0%EB%A5%B8%20A%2BB/sysA%2BB.py)
 - [No.15649 N과M(1)](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/15000%2B/15649%20N%EA%B3%BCM(1)/N%26M.swift)
 - [No.15650 N과M(2)](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/15000%2B/15650%20N%EA%B3%BCM(2)/N%26M(2).swift)
 - [No.15651 N과M(3)](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/15000%2B/15651%20N%EA%B3%BCM(3)/N%26M(3).swift)
