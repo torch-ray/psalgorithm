@@ -53,7 +53,7 @@
 - [No.2753 윤년](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2753%20%EC%9C%A4%EB%85%84/leapYear.py)
 - [No.2775 부녀회장이 될테야](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2775%20%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%20%EB%90%A0%ED%85%8C%EC%95%BC/womenPresident.swift)
 - [No.2805 나무 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2805%20%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/CuttingTree.swift)
-- [No.2839 설탕 배달]()
+- [No.2839 설탕 배달](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2839%20%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC/deliverySugar.py)
 - [No.2884 알람 시계](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2884%20%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84%20/alarm.py)
 
 ## 3000+
@@ -76,7 +76,7 @@
 
 ## 8000+
 - [No.8393 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/8000%2B/8393%20%ED%95%A9/sum.py)
-- [No.8958 OX퀴즈]()
+- [No.8958 OX퀴즈](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/8000%2B/8958%20OX%ED%80%B4%EC%A6%88/OXQuiz.py)
 
 ## 9000+
 - [No.9251 LCS](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9251%20LCS/LCS.swift)
