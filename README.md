@@ -61,6 +61,7 @@
 - [No.3046 R2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/3000%2B/3046%20R2/R2.swift)
 
 ## 4000+
+- [No.4344 평균은 넘겠지]()
 - [No.4963 섬의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/4000%2B/4963%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98/islandCount.swift)
 
 ## 5000+
