@@ -9,7 +9,7 @@
 - [No.1037 약수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1037%20%EC%95%BD%EC%88%98/divisor.swift)
 - [No.1085 직사각형에서 탈출](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1085%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/escapingRect.swift)
 - [No.1110 더하기 사이클](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1110%20%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4/plusCycle.py)
-- [No.1152 단어의 개수]()
+- [No.1152 단어의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1152%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/wordsCount.py)
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
 - [No.1182 부분수열의 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1182%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9/sumSubsequence.swift)
 - [No.1237 정ㅋ벅ㅋ](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1237%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/conquest.swift)
@@ -60,7 +60,7 @@
 ## 3000+
 - [No.3009 네 번째 점](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/3000%2B/3009%20%EB%84%A4%20%EB%B2%88%EC%A7%B8%20%EC%A0%90/fourthPoint.swift)
 - [No.3046 R2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/3000%2B/3046%20R2/R2.swift)
-- [No.3052 나머지]()
+- [No.3052 나머지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/3000%2B/3052%20%EB%82%98%EB%A8%B8%EC%A7%80/remainder.py)
 
 ## 4000+
 - [No.4344 평균은 넘겠지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/4000%2B/4344%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80/overAvg.py)
@@ -96,7 +96,7 @@
 - [No.10757 큰 수 A+B](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10757%20%ED%81%B0%20%EC%88%98%20A%2BB/BigNumberA%2BB.swift)
 - [No.10799 쇠 막대기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10799%20%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/ironStick.swift)
 - [No.10808 알파벳 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10808%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98/alphabetCount.swift)
-- [No.10809 알파벳 찾기]()
+- [No.10809 알파벳 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10809%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0/findAlphabet.py)
 - [No.10816   숫자 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2/numberCard2.swift)
 - [No.10818 최소, 최대](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10818%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/minMax.py)
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
