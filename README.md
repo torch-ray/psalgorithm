@@ -98,6 +98,7 @@
 - [No.10808 알파벳 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10808%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B0%9C%EC%88%98/alphabetCount.swift)
 - [No.10809 알파벳 찾기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10809%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0/findAlphabet.py)
 - [No.10816   숫자 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2/numberCard2.swift)
+- [No.10817 세 수]()
 - [No.10818 최소, 최대](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10818%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/minMax.py)
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
