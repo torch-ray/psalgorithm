@@ -48,6 +48,7 @@
 - [No.2577 숫자의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2577%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98/numCount.py)
 - [No.2581 소수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2581%20%EC%86%8C%EC%88%98/primeNumber.swift)
 - [No.2588 곱셈](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2588%20%EA%B3%B1%EC%85%88/multiplication.py)
+- [No.2675 문자열 반복]()
 - [No.2739 구구단](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2739%20%EA%B5%AC%EA%B5%AC%EB%8B%A8/multiplicationTable.py)
 - [No.2741 N 찍기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2741%20N%EC%B0%8D%EA%B8%B0/printN.py)
 - [No.2742 기찍 N](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2742%20%EA%B8%B0%EC%B0%8D%20N/Ntnirp.py)
