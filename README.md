@@ -66,6 +66,7 @@
 
 ## 4000+
 - [No.4344 평균은 넘겠지](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/4000%2B/4344%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80/overAvg.py)
+- [No.4673 셀프 넘버]()
 - [No.4963 섬의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/4000%2B/4963%20%EC%84%AC%EC%9D%98%20%EA%B0%9C%EC%88%98/islandCount.swift)
 
 ## 5000+
