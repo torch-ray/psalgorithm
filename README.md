@@ -11,7 +11,7 @@
 - [No.1085 직사각형에서 탈출](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1085%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C/escapingRect.swift)
 - [No.1110 더하기 사이클](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1110%20%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4/plusCycle.py)
 - [No.1152 단어의 개수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1152%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98/wordsCount.py)
-- [No.1157 단어 공부]()
+- [No.1157 단어 공부](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1157%20%EB%8B%A8%EC%96%B4%20%EA%B3%B5%EB%B6%80/studyWords.py)
 - [No.1181 단어 정렬](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC/sortingWords.swift)
 - [No.1182 부분수열의 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1182%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9/sumSubsequence.swift)
 - [No.1237 정ㅋ벅ㅋ](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1237%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/conquest.swift)
