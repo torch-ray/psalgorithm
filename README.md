@@ -112,6 +112,7 @@
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
 - [No.10869 사칙연산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10869%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/arithmeticOperation.py)
 - [No.10871 X보다 작은 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10871%20X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98/numLessThanX.py)
+- [No.10872 팩토리얼](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10872%20%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC/factorial.swift)
 - [No.10950 A+B - 3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10950%20A%2BB-3/A%2BB-3.py)
 - [No.10951 A+B - 4](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10951%20A%2BB-4/A%2BB-4.py)
 - [No.10952 A+B - 5](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10952%20A%2BB-5/A%2BB%20-5.py)
