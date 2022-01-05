@@ -41,6 +41,7 @@
 - [No.2438 별 찍기-1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2438%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-1/printStar-1.py)
 - [No.2439 별 찍기-2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2439%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-2/printStar-2.py)
 - [No2440 별 찍기-3](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2440%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-3/printStar-3.py)
+- [No.2441 별 찍기-4](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2441%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-4/printStar-4.swift)
 - [No.2443  별 찍기-6](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2443%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-6/printStar-6.swift)
 - [No.2444 별 찍기-7](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2444%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-7/printStar7.swift)
 - [No.2445 별 찍기-8](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2445%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-8/printStar8.swift)
@@ -82,6 +83,7 @@
 - [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift)
 
 ## 7000+
+- [No.7287 등록](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7287%20%EB%93%B1%EB%A1%9D/register.swift)
 - [No.7568 덩치](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7568%20%EB%8D%A9%EC%B9%98/bulk.swift)
 - [No.7576 토마토](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/7000%2B/7576%20%ED%86%A0%EB%A7%88%ED%86%A0/tomato.swift)
 
