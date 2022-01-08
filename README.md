@@ -16,6 +16,7 @@
 - [No.1182 부분수열의 합](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1182%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9/sumSubsequence.swift)
 - [No.1237 정ㅋ벅ㅋ](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1237%20%EC%A0%95%E3%85%8B%EB%B2%85%E3%85%8B/conquest.swift)
 - [No.1330 두 수 비교하기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1330%20%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/compareTwoNums.py)
+- [No.1463 1로 만들기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1463%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0/makeOne.swift)
 - [No.1476 날짜 계산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1476%20%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0/dateCalculation.swift)
 - [No.1546 평균](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1546%20%ED%8F%89%EA%B7%A0/average.py)
 - [No.1541 잃어버린 괄호](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/1000%2B/1541%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8/missingParenthesis.swift)
