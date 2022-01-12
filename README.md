@@ -112,6 +112,7 @@
 - [No.10816   숫자 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10816%20%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2/numberCard2.swift)
 - [No.10817 세 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10817%20%EC%84%B8%20%EC%88%98/threeNums.py)
 - [No.10818 최소, 최대](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10818%20%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80/minMax.py)
+- [No.10828 스택](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10828%20%EC%8A%A4%ED%83%9D/stack.swift)
 - [No.10844 쉬운 계단 수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10844%20%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98/stairsNumber.swift)
 - [No.10866 덱](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10866%20%EB%8D%B1/deck.swift)
 - [No.10869 사칙연산](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/10000%2B/10869%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/arithmeticOperation.py)
