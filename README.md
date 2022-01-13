@@ -94,6 +94,7 @@
 - [No.8958 OX퀴즈](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/8000%2B/8958%20OX%ED%80%B4%EC%A6%88/OXQuiz.py)
 
 ## 9000+
+- [No.9012 괄호](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9012%20%EA%B4%84%ED%98%B8/paranthesis.swift)
 - [No.9251 LCS](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9251%20LCS/LCS.swift)
 - [No.9461 파도반 수열](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4/waveSequence.swift)
 - [No.9465 스티커](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/9000%2B/9465%20%EC%8A%A4%ED%8B%B0%EC%BB%A4/sticker.swift)
