@@ -38,6 +38,7 @@
 - [No.2163 초콜릿 자르기](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2163%20%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%9E%90%EB%A5%B4%EA%B8%B0/sliceChocolate.swift)
 - [No.2164 카드2](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2164%20%EC%B9%B4%EB%93%9C2/card2.swift)
 - [No.2193 이친수](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2193%20%EC%9D%B4%EC%B9%9C%EC%88%98/prinaryNumber.swift)
+- [No.2292 벌집](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2292%20%EB%B2%8C%EC%A7%91/hoenyComb.swift)
 - [No.2293  동전 1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2293%20%EB%8F%99%EC%A0%841/coin1.swift)
 - [No.2309 일곱 난쟁이](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2309%20%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4/sevenDwarfs.swift)
 - [No.2438 별 찍기-1](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/2000%2B/2438%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0-1/printStar-1.py)
