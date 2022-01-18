@@ -83,6 +83,7 @@
 ## 5000+
 - [No.5543 상근날드](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5543%20%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C/sangeunNald.swift)
 - [No.5585 거스름돈](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5585%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/change.swift)
+- [No.5622 다이얼](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/5000%2B/5622%20%EB%8B%A4%EC%9D%B4%EC%96%BC/dial.swift)
 
 ## 6000+
 - [No.6603 로또](https://github.com/torch-ray/psalgorithm/blob/baekjoon/baekjoon/6000%2B/6603%20%EB%A1%9C%EB%98%90/lotto.swift)
